@@ -1,5 +1,5 @@
-## Run the app with npm start
+### Run the app with npm start
 
-# Features
+#### Features
 * Search contacts by name, skill or combined
 * Create new contact with one or more skills
